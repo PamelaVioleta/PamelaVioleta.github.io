@@ -22,10 +22,11 @@ Peru is a beautiful country in South America with a rich history and amazing lan
 
 ![Machu Picchu](images/machu.jpg)
 
+# SUGESTED LOCATIONS TO VISIT
 
 ```md
 
 - Arequipa
 - Lima
 - Tacna
-´´´
+```
