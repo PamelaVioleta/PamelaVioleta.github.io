@@ -24,8 +24,9 @@ Peru is a beautiful country in South America with a rich history and amazing lan
 
 # SUGESTED LOCATIONS TO VISIT
 
-```md
 
+```md
+# CITY IN PERU
 - Arequipa
 - Lima
 - Tacna
